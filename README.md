@@ -25,3 +25,11 @@ Brightness of the lights are still controlled by the rotary encoder(same as Mode
 Alarm time is set with the left and right buttons on the board (left button increases hours and right button increases minutes). Pressing on the encoder turns the alarm on. The status of the alarm is displayed at the top of the screen (ON/OFF). <b> Must switch back to Mode 0 or 1 after turning on alarm for it to ring. </b><br>
 
 To turn off ringing alarm, hold down the encoder button until ringing stops.
+
+## 3D Model Assembly
+* Top compartment slides over Adafruit board to diffuse light
+* Middle compartment holds all electronic components except for the RTC
+* Bottom compartment holds hte RTC and any batteries needed, with cables routed through to the middle compartment
+* All parts were 3D printed with 25% density
+
+<img src="https://user-images.githubusercontent.com/15254803/184983535-7d7c02c1-c186-4b3e-9060-a8059c3d2e23.png" height="450"/><img src="https://user-images.githubusercontent.com/15254803/184984303-904ea797-697c-458e-8195-fa05617e17aa.png" height="450"/>
