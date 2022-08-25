@@ -26,6 +26,9 @@ Alarm time is set with the left and right buttons on the board (left button incr
 
 To turn off ringing alarm, hold down the encoder button until ringing stops.
 
+## Circuit
+<img src="https://user-images.githubusercontent.com/15254803/186573084-82e34de7-197e-450d-96d5-ca49f7a47319.jpg" height="400"/> <img src="https://user-images.githubusercontent.com/15254803/186573091-16dce85a-345d-4d9b-b3a4-d13f73d945a4.jpg" height="400"/>
+
 ## 3D Model Assembly
 * Top compartment slides over Adafruit board to diffuse light
 * Middle compartment holds all electronic components except for the RTC
