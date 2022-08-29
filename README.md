@@ -36,3 +36,17 @@ To turn off ringing alarm, hold down the encoder button until ringing stops.
 * All parts were 3D printed with 25% density
 
 <img src="https://user-images.githubusercontent.com/15254803/184983535-7d7c02c1-c186-4b3e-9060-a8059c3d2e23.png" height="450"/><img src="https://user-images.githubusercontent.com/15254803/184984303-904ea797-697c-458e-8195-fa05617e17aa.png" height="450"/>
+
+## Bill of Materials
+Component                           | Qty | Link
+------------------------------------| :-: | ----
+Adafruit Circuit Playground Express | 1 | https://www.adafruit.com/product/3333
+SSD1306 128x32 OLED Display         | 1 | https://www.amazon.ca/dp/B085NHM5TC
+DS1307 AT24C32 RTC                  | 1 | https://www.amazon.ca/dp/B07GGM7GL4
+Rechargable 3.6V Coin Cell for RTC  | 1 | https://www.amazon.ca/dp/B09TTSNM31
+Rotary Encoder with Push Button     | 1 | https://www.amazon.ca/dp/B08728K3YB
+Push Button                         | 1 | https://www.amazon.ca/dp/B07DFDS7W8
+Resistor 220Ohm                     | 2 | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT220R/1741639
+Resistor 10kOhm                     | 2 | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265
+Capacitor 1uF                       | 2 | https://www.digikey.com/en/products/detail/murata-electronics/RDER71H105K2M1H03A/4771301
+
